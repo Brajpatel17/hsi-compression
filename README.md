@@ -100,4 +100,4 @@ results/
 inr_v1/                      INR paper reproduction (separate track)
 ```
 ## Contributions
-- Dharti Patel: introduction, dataset, train/test split, evaluation metrics
+- *Dharti Patel*: problem statement, Indian Pines dataset, spatial train/test split and normalisation (split_data.py), evaluation metrics PSNR, SAM and bpppb (common/metrics.py), limitations and future work
