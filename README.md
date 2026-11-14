@@ -99,3 +99,5 @@ results/
   classical/  neural/  figures/
 inr_v1/                      INR paper reproduction (separate track)
 ```
+## Contributions
+- Dharti Patel: introduction, dataset, train/test split, evaluation metrics
