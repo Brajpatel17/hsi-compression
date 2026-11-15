@@ -102,3 +102,4 @@ inr_v1/                      INR paper reproduction (separate track)
 ## Contributions
 - *Dharti Patel*: problem statement, Indian Pines dataset, spatial train/test split and normalisation (split_data.py), evaluation metrics PSNR, SAM and bpppb (common/metrics.py), limitations and future work
 - *Rudra Patel*: classical spectral transforms: PCA, spectral DCT with zonal coding, and 3D-DCT with entropy-estimated rate (classical/codecs.py)
+- *Mahi Patel*: classical image codecs: band-mosaic JPEG and JPEG2000, and the PCA+JPEG2000 pipeline (`classical/codecs.py`, `classical/run_classical.py`)
